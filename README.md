@@ -1,0 +1,2 @@
+# red-lights-dashboard
+This project was designed to highlight my data wrangling and visualization skills by creating an interactive dashboard which displays the total number of red camera violations in the city of Chicago, Illinois. It includes a count of total violations, a chart with the number of violations per day, and a map with the locations of the red light cameras and number of violations. 
