@@ -8,4 +8,4 @@ After viewing the December 2018 Kaggle Dashboard Training (https://www.kaggle.co
 Both datasets, hosted by the City of Chicago, were initially accessed through Kaggle (https://www.kaggle.com/chicago/chicago-red-light-and-speed-camera-data). The "red-light-camera-violations" .csv file could not be uploaded due to its size, but can be downloaded through the provided Kaggle link.  
 
 # How to use 
-To run both the Cleaning and Wrangling.ipynb and Final.ipynb files, download the /input folder files and first run the Cleaning and Wrangling.ipynb file. To only view the dashboard, first download the /clean folder files.
+To run both the Cleaning and Wrangling.ipynb and Final.ipynb files, download the /input folder files and first run the Cleaning and Wrangling.ipynb file. To only view the dashboard, the "red_cam_viol.csv" file will have to be created by first running the Cleaning and Wrangling.ipynb file, as the file is too large to upload. The other .csv files can be downloaded directly from the /clean folder. 
